@@ -1,1 +1,4 @@
-# Codigo-Contraintuitivo
+## Codigo-Contraintuitivo
+# Proyecto 4
+Hola, este es un código que he creado pensando en que cuando se interactue con el mismo, sea contraintuitivo, es decir, que sea difícil de descifrar su funcionamiento exacto y por lo tanto resulte tedioso.
+El código básicamente consiste en mostrar la mano para iniciar el juego, sin embargo no existen instrucciones para hacerlo, por lo que será algo que el ususario tiene que descubrir. Una vez iniciado el juego se muestra una serie de 5 colores, el usuario tiene un tiempo de 15 segundos por nivel para seleccionar esos colores en el mismo orden de atrás para adelante. Si se pierde, el juego se reinicia después de mostrar un mensaje de error. Además si es que se llegara a ganar, el juego no ofrece ninguna recompensa, solo se vuelve a reiniciar.
